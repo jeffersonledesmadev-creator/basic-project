@@ -7,6 +7,7 @@ var MainModule = (function(){
     
     var configureEvents = function(){
         console.log("Configurando eventos");
+        console.log("Otro cambio");
     }
     
     return {
